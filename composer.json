@@ -1,0 +1,14 @@
+{
+	"autoload" : {
+		"psr-4" : {
+			"DietTests\\DietTests\\" : "src"
+		}
+	},
+	"name" : "DietTests/DietTests",
+	"require" : {
+		"php" : ">=7.1"
+	},
+	"require-dev": {
+		"codeception/codeception": "^2.3"
+	}
+}
